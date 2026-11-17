@@ -1,3 +1,7 @@
+[ПР-1](https://github.com/KreezerIT/web-tests-student/pull/1) с UI тестом авторизации (практика) - описал TL;DR 
+
+---
+
 # UI тесты Testboard
 
 Учебный проект школы QA Авито на **JavaScript и Playwright Test** для сайта [Testboard](https://testboard.avito.com/).
